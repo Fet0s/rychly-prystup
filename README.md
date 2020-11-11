@@ -1,0 +1,2 @@
+# rychly-prystup
+moj cfg
